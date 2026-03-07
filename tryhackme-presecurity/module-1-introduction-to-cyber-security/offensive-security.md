@@ -105,3 +105,5 @@ From this room we learn:
 This documentation is for educational purposes only.
 
 The techniques discussed should only be used in **legal environments such as labs, CTF platforms, or systems you own or have permission to test**.
+
+<img width="1302" height="542" alt="image" src="https://github.com/user-attachments/assets/03138918-eb90-4558-95e0-7121a296ca4f" />
