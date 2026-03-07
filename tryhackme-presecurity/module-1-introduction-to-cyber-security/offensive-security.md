@@ -107,7 +107,7 @@ The techniques discussed should only be used in **legal environments such as lab
 
 ---
 
-### Completion Proof
+# Completion Proof
 
 <img width="1310" height="541" alt="image" src="https://github.com/user-attachments/assets/f17d1e6b-6bbf-49ec-8a2c-fc52d67d0e52" />
 
