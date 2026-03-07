@@ -94,4 +94,5 @@ All techniques discussed should only be used in authorized environments such as 
 
 <img width="1302" height="542" alt="image" src="https://github.com/user-attachments/assets/067f41d3-a698-406d-a660-4b8e11a8a520" />
 
-**Note** Gambar di atas menunjukkan progres saya dalam memahami dasar defensive security
+**Note** The image above shows my progress in understanding the basics of defense security.
+
