@@ -101,9 +101,13 @@ From this room we learn:
 
 # Disclaimer
 
-This documentation is for educational purposes only.
+This repository contains my personal notes from TryHackMe learning paths.
 
-The techniques discussed should only be used in **legal environments such as labs, CTF platforms, or systems you own or have permission to test**.
+No flags, walkthroughs, or copyrighted course materials are included.
+
+This documentation is created for educational purposes as part of a cybersecurity learning journey.
+
+All techniques discussed should only be used in authorized environments such as labs, training platforms, or systems you own.
 
 ---
 
