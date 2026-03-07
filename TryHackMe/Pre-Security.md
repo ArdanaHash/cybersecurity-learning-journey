@@ -151,7 +151,7 @@ After completing the Pre Security path, the next learning paths include:
 
 - Cyber Security 101
 - Jr Penetration Tester
-- SOC Level 1
+- Web Fundamentals
 
 These paths focus more on **hands-on security techniques and real-world scenarios**.
 
