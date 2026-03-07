@@ -1,0 +1,164 @@
+# 🛡️ TryHackMe – Pre Security Path
+
+**Status:** Completed ✅  
+Platform: TryHackMe
+
+This document summarizes the key concepts I learned while completing the **Pre Security Path**.  
+The path focuses on foundational cybersecurity knowledge including networking, operating systems, web fundamentals, and basic security concepts.
+
+---
+
+# 🗺️ Path Overview
+
+The Pre Security path introduces essential concepts needed before diving into more advanced cybersecurity topics.
+
+Main areas covered:
+
+- Cyber Security Fundamentals
+- Networking Basics
+- Web Technologies
+- Linux and Windows Basics
+- Software and Programming Fundamentals
+- Basic Security Concepts
+
+---
+
+# 1️⃣ Introduction to Cyber Security
+
+**Key concepts learned:**
+
+- Difference between **Offensive Security (Red Team)** and **Defensive Security (Blue Team)**
+- Overview of cybersecurity roles such as security analyst, penetration tester, and security engineer
+- Understanding why protecting systems, networks, and data is important
+
+This module introduced the **fundamental landscape of cybersecurity and its career paths**.
+
+---
+
+# 2️⃣ Network Fundamentals
+
+**Key concepts learned:**
+
+- Basic networking concepts and device communication
+- The difference between **IP Address** and **MAC Address**
+- The **OSI Model** and its seven layers
+- LAN networking concepts such as **ARP** and **DHCP**
+- Basic network connectivity testing using tools like `ping`
+
+This module helped build a **foundation for understanding how data travels across networks**.
+
+---
+
+# 3️⃣ How The Web Works
+
+**Key concepts learned:**
+
+- How browsers communicate with web servers
+- The role of **HTTP and HTTPS**
+- How **DNS** resolves domain names into IP addresses
+- The structure of web requests and responses
+- Basic understanding of cookies and HTTP headers
+
+This section explains **how websites and web applications function behind the scenes**.
+
+---
+
+# 4️⃣ Linux Fundamentals
+
+**Key concepts learned:**
+
+Basic Linux terminal commands:
+
+ls
+cd
+pwd
+cat
+grep
+
+
+Other concepts:
+
+- Understanding the Linux file system
+- Navigating directories and managing files
+- Basic user permissions
+
+Linux knowledge is important because many servers and security tools run on Linux systems.
+
+---
+
+# 5️⃣ Windows Fundamentals
+
+**Key concepts learned:**
+
+- Basic Windows system architecture
+- Understanding system tools such as:
+  - Control Panel
+  - Task Manager
+  - System Settings
+- User account management and permissions
+- Basic system administration concepts
+
+This module introduced how **Windows systems are structured and managed**.
+
+---
+
+# 6️⃣ Software Basics
+
+**Key concepts learned:**
+
+- Basic programming concepts
+- Introduction to **Python** and **JavaScript**
+- Understanding how data is represented and processed
+- Basic database concepts using **SQL**
+
+These fundamentals help in understanding how applications work and how vulnerabilities may occur.
+
+---
+
+# 7️⃣ Attacks and Defenses
+
+**Key concepts learned:**
+
+- The **CIA Triad**:
+  - Confidentiality
+  - Integrity
+  - Availability
+- Basic cryptography concepts
+- The difference between attackers and defenders
+- Introduction to penetration testing and defensive security strategies
+
+This module provides an overview of **how cyber attacks occur and how systems are protected**.
+
+---
+
+# 🧠 Key Takeaways
+
+Completing the Pre Security path helped me understand:
+
+- Fundamental networking concepts
+- Basic web technologies
+- Linux and Windows operating system basics
+- Core cybersecurity principles
+- The different roles within the cybersecurity field
+
+This foundation prepares me for more advanced cybersecurity learning paths.
+
+---
+
+# 🚀 Next Learning Goals
+
+After completing the Pre Security path, the next learning paths include:
+
+- Cyber Security 101
+- Jr Penetration Tester
+- SOC Level 1
+
+These paths focus more on **hands-on security techniques and real-world scenarios**.
+
+---
+
+# ⚠️ Disclaimer
+
+This repository contains **personal learning summaries** from cybersecurity training.
+
+No challenge answers, flags, or copyrighted course materials are included.
