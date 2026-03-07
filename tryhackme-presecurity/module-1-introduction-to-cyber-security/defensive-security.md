@@ -76,7 +76,6 @@ They also use tools such as **SIEM (Security Information and Event Management)**
 - Blue teams monitor and respond to threats
 - SOC teams operate security monitoring infrastructure
 - SIEM systems help analyze security events
-
 ---
 
 # Disclaimer
