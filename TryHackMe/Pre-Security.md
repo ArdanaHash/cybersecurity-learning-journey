@@ -167,4 +167,4 @@ No challenge answers, flags, or copyrighted course materials are included.
 
 ## 📸 Completion Proof
 
-<img src="../assets/ProofPreSecurityModule.png" width="600">
+![Pre Security Completion](assets/ProofPreSecurityModule.png)
