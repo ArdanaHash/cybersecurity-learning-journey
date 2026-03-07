@@ -1,4 +1,4 @@
-# Defensive Security
+**# Defensive Security
 
 ## Overview
 
@@ -208,12 +208,24 @@ From this module we learned:
 - The responsibilities of security teams
 - The importance of **SOC operations**
 - The use of **SIEM systems**
-- The concept of **Defense in Depth**
+- The concept of **Defense in Depth****
 
 ---
 
 # Disclaimer
 
+This repository contains my personal notes from TryHackMe learning paths.
+
+No flags, walkthroughs, or copyrighted course materials are included.
+
 This documentation is created for educational purposes as part of a cybersecurity learning journey.
 
 All techniques discussed should only be used in authorized environments such as labs, training platforms, or systems you own.
+
+---
+
+# Completion Proof
+
+<img width="1302" height="542" alt="image" src="https://github.com/user-attachments/assets/067f41d3-a698-406d-a660-4b8e11a8a520" />
+
+**Note** Gambar di atas menunjukkan progres saya dalam memahami dasar defensive security
