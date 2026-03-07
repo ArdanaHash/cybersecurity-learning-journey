@@ -1,0 +1,173 @@
+# OSI Model
+
+## Overview
+
+The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to understand how data travels across a network.
+
+It divides network communication into **seven layers**, where each layer has a specific responsibility.
+
+This layered approach helps standardize communication between different systems and technologies.
+
+---
+
+# The 7 Layers of the OSI Model
+
+The OSI model contains seven layers, starting from the physical transmission of data up to the applications used by users.
+
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+A common way to remember the order is:
+
+**"Please Do Not Throw Sausage Pizza Away."**
+
+---
+
+# Layer 1 – Physical
+
+The Physical layer is responsible for transmitting raw bits over a physical medium.
+
+Examples include:
+
+- Ethernet cables
+- Fiber optic cables
+- Wireless signals
+
+This layer deals with hardware components and the electrical signals used to transmit data.
+
+---
+
+# Layer 2 – Data Link
+
+The Data Link layer ensures reliable data transfer between devices on the same network.
+
+It is responsible for:
+
+- MAC addressing
+- detecting transmission errors
+- packaging data into frames
+
+Technologies operating at this layer include:
+
+- switches
+- network interface cards (NIC)
+
+---
+
+# Layer 3 – Network
+
+The Network layer handles logical addressing and routing of data between networks.
+
+It determines the best path for data to travel.
+
+The main protocol used at this layer is:
+
+- IP (Internet Protocol)
+
+Devices operating here include:
+
+- routers
+
+---
+
+# Layer 4 – Transport
+
+The Transport layer ensures reliable communication between devices.
+
+Its responsibilities include:
+
+- breaking data into smaller segments
+- controlling data flow
+- ensuring reliable delivery
+
+Two common protocols used here are:
+
+- TCP (Transmission Control Protocol)
+- UDP (User Datagram Protocol)
+
+TCP focuses on reliability, while UDP focuses on speed.
+
+---
+
+# Layer 5 – Session
+
+The Session layer manages communication sessions between devices.
+
+It is responsible for:
+
+- establishing sessions
+- maintaining connections
+- terminating sessions
+
+This layer ensures that communication between systems stays organized.
+
+---
+
+# Layer 6 – Presentation
+
+The Presentation layer is responsible for formatting and translating data.
+
+It ensures that data sent from one system can be understood by another.
+
+Common tasks include:
+
+- data encoding
+- encryption
+- compression
+
+---
+
+# Layer 7 – Application
+
+The Application layer is the layer closest to the user.
+
+It provides network services directly to applications.
+
+Examples include:
+
+- HTTP (web browsing)
+- FTP (file transfer)
+- SMTP (email services)
+- DNS (domain name resolution)
+
+---
+
+# Why the OSI Model is Important
+
+The OSI model helps network engineers and security professionals understand how data flows through a network.
+
+It also makes troubleshooting easier by isolating problems within specific layers.
+
+---
+
+# Key Takeaways
+
+- The OSI Model divides network communication into seven layers.
+- Each layer performs a specific role in the data transmission process.
+- The model helps standardize communication between different systems.
+- Understanding the OSI model is important for networking and cybersecurity.
+
+---
+
+# Disclaimer
+
+This repository contains my personal notes from TryHackMe learning paths.
+
+No flags, walkthroughs, or copyrighted course materials are included.
+
+This documentation is created for educational purposes as part of a cybersecurity learning journey.
+
+All techniques discussed should only be used in authorized environments such as labs, training platforms, or systems you own.
+
+---
+
+# Completion Proof
+
+
+
+**note** The image above shows my progress in understanding the basics of offensive security.
