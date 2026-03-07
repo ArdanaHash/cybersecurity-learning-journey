@@ -171,7 +171,7 @@ All techniques discussed should only be used in authorized environments such as 
 
 # Completion Proof
 
-<img width="911" height="922" alt="image" src="https://github.com/user-attachments/assets/7bef13ed-d8bc-4d43-b7c8-b8c6dea0bfb2" />
+<img width="1860" height="338" alt="image" src="https://github.com/user-attachments/assets/e60f528a-0ef7-4fe6-adec-862d38432735" />
 
 
 **note** The image above shows my progress in understanding the basics of networking.
