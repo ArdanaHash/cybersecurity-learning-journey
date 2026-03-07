@@ -115,4 +115,4 @@ All techniques discussed should only be used in authorized environments such as 
 
 <img width="1310" height="541" alt="image" src="https://github.com/user-attachments/assets/f17d1e6b-6bbf-49ec-8a2c-fc52d67d0e52" />
 
-**note** Gambar di atas menunjukkan progres saya dalam memahami dasar offensive security 
+**note** The image above shows my progress in understanding the basics of offensive security.
