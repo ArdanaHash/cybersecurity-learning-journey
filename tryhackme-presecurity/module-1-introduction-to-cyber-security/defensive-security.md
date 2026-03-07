@@ -1,214 +1,81 @@
-**# Defensive Security
+# Defensive Security
 
-## Overview
+## What is Defensive Security
 
-Defensive Security focuses on protecting systems, networks, and data from cyber attacks.
+Defensive security focuses on protecting systems and detecting cyber attacks.
 
-It involves detecting threats, preventing attacks, and responding to security incidents.
+It involves monitoring infrastructure, responding to incidents, and improving security controls to reduce risks.
 
-Defensive security is also known as **Blue Teaming**.
-
-The main objective is to protect an organisation's infrastructure from malicious activity.
+This area of cybersecurity is commonly associated with **Blue Team operations**.
 
 ---
 
-# Real World Cyber Attacks
+## Examples of Security Breaches
 
-When organisations fail to protect their systems, the consequences can be severe.
+Real-world incidents show how damaging security failures can be.
 
-Examples of major breaches include:
+Some well known breaches include:
 
-- British Airways (2018): Customer personal and payment data leaked
-- Marriott International (2020): Passport information and payment details leaked
-- Advanced Computer Software Group (2022): Medical records exposed
-- 23andMe (2023): Sensitive user DNA data leaked
-- SK Telecom (2024): Personal user data leaked due to misconfigured servers
+- British Airways data breach
+- Marriott International data leak
+- 23andMe user data exposure
 
-These incidents highlight the importance of strong defensive security practices.
+These cases highlight the importance of strong security practices and monitoring systems.
 
 ---
 
-# Responsibilities of Defensive Security
+## Key Responsibilities of Defensive Security Teams
 
-Defensive security teams perform several important roles:
+Typical activities include:
 
-## Monitoring and Detection
-
-Security teams monitor systems and networks to detect suspicious activity.
-
-Example:
-- Unusual login attempts
-- Suspicious network traffic
-- Malware activity
+- Monitoring systems and network activity
+- Investigating security alerts
+- Responding to incidents
+- Identifying vulnerabilities
+- Improving security defenses
 
 ---
 
-## Incident Response
+## Common Roles
 
-When a security incident occurs, the team investigates and responds quickly.
+Some typical roles within a defensive security team:
 
-The incident response process usually includes:
+- SOC Analyst
+- Incident Responder
+- Security Engineer
+- Digital Forensics Analyst
 
-1. Detecting the incident
-2. Containing the threat
-3. Removing the threat
-4. Recovering systems
-
----
-
-## Threat Intelligence
-
-Threat intelligence involves gathering information about attackers and their techniques.
-
-Security teams use this information to improve their defence strategies.
-
-Example:
-- Known malware patterns
-- Hacker tactics and techniques
-- Vulnerability trends
+Each role focuses on protecting systems and investigating security events.
 
 ---
 
-## Vulnerability Management
+## Security Controls
 
-Security teams continuously check systems for vulnerabilities.
+Organizations implement several security controls such as:
 
-This includes:
+- Employee security awareness training
+- Intrusion Detection Systems (IDS)
+- Firewalls
+- Security policies and access controls
 
-- scanning systems
-- applying security patches
-- updating outdated software
-
-The goal is to reduce the attack surface.
-
----
-
-## Investigation and Analysis
-
-Security professionals analyze logs and alerts to understand security incidents.
-
-This process helps determine:
-
-- how the attack happened
-- what systems were affected
-- how to prevent similar attacks in the future
+Often these controls are layered using a strategy known as **Defense in Depth**.
 
 ---
 
-# Roles in Defensive Security
+## SOC and SIEM
 
-A defensive security team includes multiple roles.
+Security teams often work inside a **Security Operations Center (SOC)** where they monitor systems and respond to incidents.
 
-### SOC Analyst
-
-A SOC (Security Operations Center) Analyst monitors security alerts and investigates suspicious activity.
-
-They are usually the first line of defense.
+They also use tools such as **SIEM (Security Information and Event Management)** platforms to collect and analyze logs from across the organization.
 
 ---
 
-### Incident Responder
+## Key Takeaways
 
-Responsible for responding to active security incidents and stopping attacks.
-
-They investigate the source of attacks and mitigate threats.
-
----
-
-### Security Engineer
-
-Security engineers design and maintain security tools and infrastructure used by the security team.
-
----
-
-### Digital Forensics Analyst
-
-Digital forensics specialists analyze compromised systems and gather evidence from attacks.
-
-Their work helps understand how the attacker gained access.
-
----
-
-# Defensive Security in Practice
-
-Organizations implement multiple layers of defense. This strategy is called **Defense in Depth**.
-
-Examples of defensive security measures include:
-
-## Employee Training
-
-Employees are trained to recognize security threats such as phishing attacks.
-
-Human error is one of the most common causes of security breaches.
-
----
-
-## Intrusion Detection Systems (IDS)
-
-IDS systems monitor networks or systems to detect suspicious activities or policy violations.
-
-They alert security teams when threats are detected.
-
----
-
-## Firewalls
-
-Firewalls control incoming and outgoing network traffic.
-
-They act as a barrier between trusted internal networks and untrusted external networks.
-
----
-
-## Security Policies
-
-Organizations implement security policies to enforce best practices.
-
-Examples include:
-
-- password requirements
-- access control
-- acceptable use policies
-
----
-
-# Security Operations Center (SOC)
-
-A **Security Operations Center (SOC)** is a centralized team responsible for monitoring and protecting an organization's systems.
-
-SOC teams:
-
-- monitor security alerts
-- investigate suspicious activities
-- respond to incidents
-
-SOC teams usually operate **24/7**.
-
----
-
-# SIEM Systems
-
-SIEM stands for **Security Information and Event Management**.
-
-SIEM platforms collect logs and security data from different systems across an organization.
-
-These systems help security teams:
-
-- detect threats
-- analyze events
-- respond quickly to attacks
-
----
-
-# Key Takeaways
-
-From this module we learned:
-
-- The concept of **Defensive Security**
-- The role of **Blue Teams**
-- The responsibilities of security teams
-- The importance of **SOC operations**
-- The use of **SIEM systems**
-- The concept of **Defense in Depth****
+- Defensive security protects systems from cyber attacks
+- Blue teams monitor and respond to threats
+- SOC teams operate security monitoring infrastructure
+- SIEM systems help analyze security events
 
 ---
 
