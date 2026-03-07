@@ -63,7 +63,6 @@ One tool used in the lab is **dirb**.
 Example usage:
 dirb http://example.com
 
-
 The tool works by:
 
 1. Taking a list of potential directory names
@@ -105,6 +104,8 @@ From this room we learn:
 This documentation is for educational purposes only.
 
 The techniques discussed should only be used in **legal environments such as labs, CTF platforms, or systems you own or have permission to test**.
+
+---
 
 ### Completion Proof
 
