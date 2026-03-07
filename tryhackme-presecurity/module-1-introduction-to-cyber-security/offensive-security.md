@@ -106,5 +106,8 @@ This documentation is for educational purposes only.
 
 The techniques discussed should only be used in **legal environments such as labs, CTF platforms, or systems you own or have permission to test**.
 
+### Completion Proof
+
 <img width="1310" height="541" alt="image" src="https://github.com/user-attachments/assets/f17d1e6b-6bbf-49ec-8a2c-fc52d67d0e52" />
 
+**note** Gambar di atas menunjukkan progres saya dalam memahami dasar offensive security 
