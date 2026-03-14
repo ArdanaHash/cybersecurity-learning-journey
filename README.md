@@ -7,3 +7,4 @@ Platforms included:
 - TryHackMe
 - HackTheBox (soon)
 - CTF challenges (soon)
+- OverTheWire (soon)
