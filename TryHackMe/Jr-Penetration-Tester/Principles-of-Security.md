@@ -151,4 +151,12 @@ When a security incident occurs, a structured response is required:
 * Threat modeling helps identify potential risks before they are exploited.
 * Incident response ensures organizations can react effectively to security breaches.
 
+---                   
+
+# ⚠️ Disclaimer
+
+This repository contains **personal learning summaries** from cybersecurity training.
+
+No challenge answers, flags, or copyrighted course materials are included.
+
 ---
